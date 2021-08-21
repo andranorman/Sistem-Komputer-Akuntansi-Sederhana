@@ -1,0 +1,2 @@
+SELECT idperiode, tb_jurnal_rinci.idjurnal, tgljurnal, nobukti, nobuku, deskripsi, kodemst, idbaris, kodeakun, namaakun, debet, kredit, koderinci FROM tb_jurnal_rinci INNER JOIN tb_jurnal_mst ON tb_jurnal_rinci.idjurnal=tb_jurnal_mst.idjurnal
+ORDER BY tb_jurnal_rinci.idjurnal, idbaris
