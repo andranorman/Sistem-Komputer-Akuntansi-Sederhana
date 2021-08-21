@@ -1,0 +1,112 @@
+<!--
+/*-----------------------paragraf-------------------*/
+
+
+.h1 {
+	font-family: Arial-Narrow, Arial, Helvetica, sans-serif;
+	font-size: 16px; color: #000000; font-weight: bold;	
+	}
+
+.h1c {
+	font-family: Arial-Narrow, Arial, Helvetica, sans-serif;
+	font-size: 16px; color: #000000; font-weight: bold; 	
+	}
+	
+.h2 {
+	font-family: Arial-Narrow, Arial, Helvetica, sans-serif;
+	font-size: 14px; color: #000000; font-weight: bold;	
+	}
+
+.h3 {
+	font-family: Arial-Narrow, Arial, Helvetica, sans-serif;
+	font-size: 12px; color: #000000; font-weight: bold;	
+	}
+
+.pnormal {
+	font-family: Arial-Narrow, Arial, Helvetica, sans-serif;
+	font-size: 10px; color: #000000; font-weight: normal;	
+	}
+
+.pbold {
+	font-family: Arial-Narrow, Arial, Helvetica, sans-serif;
+	font-size: 10px; color: #000000; font-weight: bold;	
+	}
+
+.pitalic {
+	font-family: Arial-Narrow, Arial, Helvetica, sans-serif;
+	font-size: 10px; color: #000000; font-weight: italic;	
+	}
+
+.tabel { background-color:#000000; border-style:solid; border-width:1px; 
+}	
+
+.tr1 { background-color:#ffffff;
+	font-family: Arial-Narrow, Arial, Helvetica, sans-serif; 
+	font-size: 10px; color: #000000; font-weight: normal; padding: 3px; float: middle;
+	}   
+
+.tr1b { background-color:#ffffff;
+	font-family: Arial-Narrow, Arial, Helvetica, sans-serif; 
+	font-size: 10px; color: #000000; font-weight: bold; padding:3px;  
+	}   
+
+.tdn { background-color:#FFFFFF; 
+	font-family: Arial-Narrow, Arial, Helvetica, sans-serif; 
+	font-size: 10px; color: #000000; font-weight: normal; padding:3px; 
+}
+
+.tdnc { background-color:#FFFFFF; 
+	font-family: Arial-Narrow, Arial, Helvetica, sans-serif; 
+	font-size: 10px; color: #000000; font-weight: normal; padding:3px; text-align:center;
+}
+	
+.tdb { background-color:#FFFFFF; 
+	font-family: Arial-Narrow, Arial, Helvetica, sans-serif; 
+	font-size: 10px; color: #000000; font-weight: bold; padding:3px;
+}
+
+.tdbc { background-color:#FFFFFF; 
+	font-family: Arial-Narrow, Arial, Helvetica, sans-serif; 
+	font-size: 10px; color: #000000; font-weight: bold; padding:3px; text-align:center;
+}
+
+.style1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 11px; color: #FFFFFF; font-weight: bold; background-color:#1B3889  
+	}
+
+.style2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px; color: #000000; padding-left:5px; background-color:#FFFFFF 
+	}
+
+.style3 {
+	font-family: Arial-Narrow, Arial, Helvetica, sans-serif;
+	font-size: 12px; color: #000000; font-weight: bold; 
+	}	
+/*-----------------------form-------------------*/
+
+.title{
+width: auto;
+padding:2px 0 10px 0;
+font-size:17px;
+color:#2e2721;
+font-weight:bold;
+}
+.text_box{
+width:378px;
+height:144px;
+padding:15px 0 0 10px;
+background:url(images/text_box.gif) no-repeat center;
+background-position:0px 0px;
+}
+.text_box2{
+width:680px;
+height:144px;
+padding:15px 0 0 10px;
+background:url(images/text_box.gif) no-repeat center;
+background-position:0px 0px;
+}
+
+-->
+</style>
